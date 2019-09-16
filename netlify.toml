@@ -1,2 +1,2 @@
 [build.environment]
-  YARN_FLAGS="--AUDIT"
+  YARN_FLAGS="--audit"
